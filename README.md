@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 - **Python** & **JavaScript** – My strongest coding languages
 - **C++** – Currently learning, and quickly becoming a favorite!
-- **Linux** – Gaining hands-on experience through cybersecurity competitions
+- **Linux** – Gained hands-on experience through cybersecurity competitions
 - **Always exploring:** Building new projects in languages I'm less familiar with to expand my coding horizons
 
 ## 🌟 Projects
